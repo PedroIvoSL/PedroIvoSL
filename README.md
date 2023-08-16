@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Ledi! 👋
+# Hi there, I'm Pedro Ledo! 👋
 
 Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-end development
 
