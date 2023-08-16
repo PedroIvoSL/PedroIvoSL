@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro Ledo! 👋
 
-Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-end development.
+Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-end development
 
 ## About Me
 
@@ -20,10 +20,10 @@ Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-
 ## 🤓 Stats
 
 <picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroivosl&show_icons=true&line_height=20&title_color=F7F7F7&text_color=F7F7F7&bg_color=FF6B6B&ring_color=F76BA7&icon_color=F76BA7&border_color=F7F7F7"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroivosl&show_icons=true&line_height=20&title_color=F7F7F7&text_color=F7F7F7&bg_color=210648&ring_color=f76ba7&icon_color=f76ba7&border_color=F7F7F7"/>
 </picture>
 <picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivosl&layout=compact&show_icons=true&title_color=F7F7F7&text_color=F7F7F7&bg_color=FF6B6B&border_color=F7F7F7"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivosl&layout=compact&show_icons=true&title_color=F7F7F7&text_color=F7F7F7&bg_color=210648&border_color=F7F7F7"/>
 </picture>
 
 ## Contact Me
