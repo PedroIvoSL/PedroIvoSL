@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity and front-end developme
 - 💚💛 Brazilian!
 - 🌱 Computer science student at UCB 💙🤍💙.
 - 💼 Working at FUNPRESP-JUD as a dev.
-- 🎸 Passionate about music writting.
+- 🎸 Passionate about music writing.
 
 ## Languages and Tools:
 <p align="left"></a>
