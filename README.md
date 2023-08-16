@@ -1,12 +1,13 @@
 # Hi there, I'm Pedro Ledo! 👋
 
-Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-end development
+Welcome to my GitHub! I'm passionate about cybersecurity and front-end development
 
 ## About Me
 
 - 💚💛 Brazilian!
 - 🌱 Computer science student at UCB 💙🤍💙.
 - 💼 Working at FUNPRESP-JUD as a dev.
+- 🎸 Passionate about music writting.
 
 ## Languages and Tools:
 <p align="left"></a>
