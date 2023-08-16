@@ -4,7 +4,8 @@ Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-
 
 ## About Me
 
-- 🌱 Computer science student at UCB 💙🤍💙
+- 🇧🇷 Brazilian!
+- 🌱 Computer science student at UCB 💙🤍💙.
 - 💼 Working at FUNPRESP-JUD as dev.
   
 ## Contact Me
