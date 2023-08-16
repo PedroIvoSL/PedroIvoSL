@@ -23,5 +23,7 @@ Welcome to my GitHub landing page! I'm passionate about cybersecurity and front-
 
 ## Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-ivo-sab%C3%A1-ledo-2242a4235)!
+### Feel free to connect with me on:
+[LinkedIn](https://www.linkedin.com/in/pedro-ivo-sab%C3%A1-ledo-2242a4235)!
+[Discord](@kon.ogg)!
 
