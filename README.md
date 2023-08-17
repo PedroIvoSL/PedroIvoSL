@@ -1,3 +1,3 @@
 <p align="center">
-	<img src="https://github.com/pedroivosl/pedroivosl/blob/master/github-metrics.svg" alt="Metrics">
+	<img src="https://github.com/PedroIvoSL/PedroIvoSL/blob/main/github-metrics.svg" alt="Metrics">
 </p>
