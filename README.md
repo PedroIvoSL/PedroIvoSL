@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity and front-end developme
 ## 🤓 Stats
 
 <picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivosl&layout=compact&show_icons=true&title_color=F7F7F7&text_color=F7F7F7&bg_color=FC9D03,FC03EC,5E03FC&border_color=F7F7F7"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivosl&layout=compact&show_icons=true&title_color=F7F7F7&text_color=F7F7F7&bg_color=FC9D03,FC03EC,5E03FC"/>
 </picture>
 <picture>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroivosl&show_icons=true&line_height=20&title_color=F7F7F7&text_color=F7F7F7&bg_color=210648&ring_color=f76ba7&icon_color=f76ba7&border_color=F7F7F7"/>
