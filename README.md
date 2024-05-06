@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity and front-end developme
 
 - 💚💛 Brazilian!
 - 🌱 Computer science student at UCB 💙🤍💙.
-- 💼 Working at FUNPRESP-JUD as an Automation Trainee.
+- 💼 Working at NEFROSTAR / INEB / RENAL MAIS as an Automation engineer.
 - 🎸 Passionate about music writing.
 
 ## Languages and Tools:
